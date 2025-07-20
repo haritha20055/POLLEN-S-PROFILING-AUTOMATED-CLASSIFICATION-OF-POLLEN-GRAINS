@@ -1,7 +1,7 @@
 # 🌿 Pollen's Profiling
 ### Automated Classification of Pollen Grains using Deep Learning
 
-![screenshot](static/last_uploaded.jpg)
+Demo Link: https://drive.google.com/file/d/1yj-GDYiJNcjRx4Ue43i8MKmsv4qN28Mf/view?usp=drive_link
 
 ## 🚀 Overview
 This project is part of my summer internship:  
